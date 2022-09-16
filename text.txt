@@ -1,0 +1,231 @@
+React Standard operating procedure
+
+
+Road Map
+
+My mailId to add in CC while taking leave:
+sairam.tagline@gmail.com
+sairam@taglineinfotech.com
+
+Contact Number
+7405469689(Ping me with your name on Whatsapp)
+8160769511
+
+
+
+Principles we need to follow while coding
+
+
+DRY: Don’t repeat yourself.
+KISS: Keep it simple stupid.
+YAGINI:- You aren’t gonna need it.
+
+
+Reference links
+Software Design Principles DRY, KISS, YAGNI
+https://thefullstack.xyz/dry-yagni-kiss-tdd-soc-bdfu
+https://workat.tech/machine-coding/tutorial/software-design-principles-dry-yagni-eytrxfhz1fla
+https://siderite.dev/blog/solid-principles-plus-dry-yagni-kiss.html/
+
+
+Prerequisites
+HTML HTML Tutorial
+CSS CSS Tutorial
+JavaScript. JavaScript Tutorial
+
+
+Code practices
+Functions/variables should be camelCase.
+Components(React) name should be PascalCase.
+Example for above 2 points.
+Avoid magic number example.
+
+
+Javascript Demo link
+Follow the official website link:- React – A JavaScript library for building user interfaces
+
+# Concepts refer to via articles (2- 4 days time-line)
+
+1. Why do we use react rather than other technology?.
+2. React Dom.
+3. State and props with all possibilities.
+4. Class and functional components. (Life cycle)
+5. Follow ES6 concepts(Which should be used in every project).
+6. Fragments, Refs, list and key
+
+#Learn code editor shortcuts. (2-4 hours time-line)
+
+# Reference websites to learn to make react easier.
+1. react js tutorial
+2. Create an account on medium and follow articles(medium.com).
+3. Airbnb React/JSX Style Guide
+4. DEV Community 👩‍💻👨‍💻
+5. Bit: The platform for the modular web (Help to find example related to react)
+6. Make sure you find solutions in StackOverflow.
+7. ReactJS Tutorial - javatpoint
+8. leonardo mso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+9. React cheat sheet
+
+	
+# Start developing a demo from here. (20 days time-line for 7-16 points)
+
+7. Hooks concepts(useEffect, useState, useCallback, useMemo, useLayoutEffect).
+8. Memo vs Pure Component.
+9. Context Provider.
+10. Higher-Order Components.
+11. Routing using react-router-dom(v5 and v6).
+12. Suspense, Lazy and Error boundaries or code splitting.
+13. Rest API. (Fetch & Axios) (JSONPlaceholder - Free Fake REST API) (All Methods) and Basic knowledge of postman(install postman).
+14. Javascript advanced concepts( https://javascript.info/ ).
+    Must be aware of following
+
+    * Let vs const vs var
+    * Array and Array methods
+    * Objects
+    * Every
+    * Filter
+    * Reduce
+    * Some
+    * Destructuring assignment
+    * Object.keys, values, entries
+    * Promise
+    * Async/await
+    * Export and Import
+    * Optional chaining '?.'
+    * Scheduling: setTimeout and setInterval.
+    * Spread and Rest Operator.
+15. Forms and event handlers using state(recommended useState with validation)
+16. Storage API. Local vs SessionStorage(setItem,getItem,clear) with array, object, string. Also refer to the 28th point.
+
+Make sure components should not cross 350 lines of code.
+If the line of code is more than 350 then split the component into two.
+
+
+
+(25 days time-line for 17-32 points)
+17. Redux.
+18. Redux thunk.
+19. Reusable Components (example 1, 2).
+20. JWT Token uses this package react-jwt - npm.
+21. Complete a Demo using the above concepts with git with my permission.
+22. React helmets must be used in every project. (react-helmet - npm).
+23. PropTypes.
+24. Typescript. (excluded from time-line)
+25. Develop the projects in a functional(use functions) way. 
+example :- (https://github.com/betisairam/crud-react-redux/tree/state-in-react) 
+26. Uncontrolled and controlled components.
+27. (Recommended) (classnames - npm)
+28. Basic knowledge of postman/swagger/fast API.
+29. Btoa and Atob for encode and decode.
+30. HTTP response status codes - HTTP
+31. .env file (Most important)
+32. React Query (React Query Tutorial - 1 - Introduction)
+
+
+
+# Advances
+1. Formik.
+2. Ramda Js.
+3. AWS Cognito.
+4. Sign in with (Google, Twitter, Github, etc).
+5. Payment gateway (Stripe Recommended).
+6. Dynamic Form.
+7. GraphQL(Apollo graphQL recommended, Hasura graphQL).
+8. Sockets.
+9. Redux saga.
+10. React -hook-form (Get Started).
+11. Redux-form (Getting Started With redux-form).
+12. Recoil (State management)(Recommended)
+13. Relay (React/Relay)
+14. PWA (Recommended).
+15. Firebase(Real-time, Authentication).	
+16. Husky+eslint+prettier(Setup)(Recommended)
+17. Portal(createPortal)
+18. Custom hooks (useHooks)
+19. StoryBook
+20. Redux toolkit
+
+
+# UI/UX(CSS)
+1. React Bootstrap.
+2. Bootstrap(Basic).
+3. Material(Basic).
+4. Antd(Basic).
+5. Tailwind(Basic)(Setup recommended).
+6. Telerik (exclude).
+
+
+# Pattern used in projects with Husky+eslint+prettier.
+Atomic Design Pattern
+Functional design pattern
+Feature-sliced pattern
+Container + Presentation + shared (How to Decouple logic from UI with React components)
+
+
+Component + reusable component.
+
+
+
+
+
+# React Dynamic Form Sample
+https://github.com/betisairam/crud-react-redux/tree/state-in-react
+
+# React Sample project
+https://github.com/ajaybhayani741/react_sample_code.git
+
+# Package managers
+1. Npm
+2. Yarn
+
+# Project Management tools
+1. Asana (Every project is managed using asana in the company).
+2. Trello
+3. Jira
+
+# Version control 
+1. Github
+2. GitLab
+3. BitBucket
+Documentation link:- Git Documentation
+
+
+# Wireframes used in the company for UI/UX(Only for your knowledge)
+
+1. Zeplin.
+2. Figma.
+3. Adobe XD.
+4. PhotoShop.
+5. Adobe Illustrator.
+6. Invision
+
+
+
+#Extensions
+
+Must be installed for the browser(chrome)
+1. React dev tools
+2. Redux dev tools
+3. Wappalyzer
+4. Any screen recorder
+
+Must be installed for code editor(vs-code)
+1. Tabnine(recommended AI-based extension)
+2. ES7 (Publisher: dsznajder) most downloaded one recommended
+3. MERN snippets
+4. Javascript snippets
+5. Auto rename
+6. Gitlens(When using git will be useful)
+7. Import cost
+8. Bracket pair colorizer
+9. Javascript booster
+10. Code spell checker
+11. Duplicate action
+12. Eslint
+13. Prettier
+
+
+
+
+# Send Daily Update to use the following link
+1. https://tagline-report.herokuapp.com/
